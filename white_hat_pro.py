@@ -23,7 +23,7 @@ class WhiteHatPasswordAuditor:
         }
         
     def show_animated_banner(self):
-        """Muestra banner hacker con animación épica."""
+        """Muestra banner ."""
         frames = [
             r"""
     ██╗    ██╗██╗  ██╗██╗████████╗███████╗     ██╗  ██╗ █████╗ ████████╗
